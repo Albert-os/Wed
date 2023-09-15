@@ -125,9 +125,9 @@ button {
   background-image: -o-linear-gradient(top, #575757, #414141);
   background-image: linear-gradient(to bottom, #575757, #414141);
   text-shadow: 0px 1px 0px #414141;
-  -webkit-box-shadow: 0px 1px 0px 414141;
-  -moz-box-shadow: 0px 1px 0px 414141;
-  box-shadow: 0px 1px 0px 414141;
+  -webkit-box-shadow: 0px 1px 0px #414141;
+  -moz-box-shadow: 0px 1px 0px #414141;
+  box-shadow: 0px 1px 0px #414141;
   color: #ffffff;
   text-decoration: none;
   margin: 0 auto 10px;
@@ -151,9 +151,9 @@ button:hover {
   background-image: -o-linear-gradient(top, #57a818, #4d9916);
   background-image: linear-gradient(to bottom, #57a818, #4d9916);
   text-shadow: 0px 1px 0px #32610e;
-  -webkit-box-shadow: 0px 1px 0px fefefe;
-  -moz-box-shadow: 0px 1px 0px fefefe;
-  box-shadow: 0px 1px 0px fefefe;
+  -webkit-box-shadow: 0px 1px 0px #fefefe;
+  -moz-box-shadow: 0px 1px 0px #fefefe;
+  box-shadow: 0px 1px 0px #fefefe;
   color: #ffffff;
   text-decoration: none;
 }
