@@ -207,7 +207,7 @@ a:hover {
   text-align: center;
   font-size: 1.125rem;
   max-width: 320px;
-  margin-left: 40%;
+  margin: 0 auto;
 }
 
 .form-title {

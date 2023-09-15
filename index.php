@@ -83,16 +83,7 @@
   </button>
 </form>
     <div class="opis"><h3>Tu są wszystkie zdjęcia nadesłane przez was!</h3></div>
-     <div class="gallery">
-  <ul class="cards">
-    
-    
-  </ul>
-  <div class="actions">
-    <button class="prev">Prev</button>
-    <button class="next">Next</button>
-  </div>
-</div>
+     
     <p>Teraz kilka faktów: </p>
     <ul>
       <li>Jesteśmy już małżeństwem!</li>
